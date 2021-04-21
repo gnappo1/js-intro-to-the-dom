@@ -1,5 +1,7 @@
 # Intro to the DOM 📜
 
+[Repository url](https://github.com/gnappo1/js-intro-to-the-dom)
+
 ### The Document Object Model Overview
 
 - What is the DOM?
